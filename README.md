@@ -7,12 +7,19 @@ Project Objective: Write a python script to scrape stock price historical data f
 
 Project Tools: Utilizes a basic python script, initially coded through Jupyter Notebook. Additionally, the following libraries are required:
 • pandas
+
 • yfinance
+
 • datetime
+
 • matplotlib.pyplot
+
 • statsmodels
+
 • sklearn
+
 • tensorflow*
+
 
 * Note: Tensorflow version 2.16.2 was utilized as other versions assumed VTX capabilities. If you encounter issues with tensorflow, attempt to deprecate version used to 2.16.2. 
 
