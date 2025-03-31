@@ -26,11 +26,14 @@ Project Tools: Utilizes a basic python script, initially coded through Jupyter N
 # Motivation
 Scraping finance data from the Web offers valuable insights that come in handy in various scenarios, including:
 • A time series is a sequence of data points recorded at successive time intervals, used to analyze trends, patterns, and forecasts over time.
+
 • Historical vs. Predicted Data – Stock prices can be analyzed by comparing past trends with future predictions to identify patterns.
+
 • Decomposition into Four Components – Both historical and predicted stock data can be broken into Trend, Seasonality, Cyclical, and Residual components.
+
 • Understanding Market Movements – Trend shows long-term growth, seasonality highlights recurring patterns, and cyclicality captures economic fluctuations.
-• Residual Analysis – The residual component represents unpredictable variations, helping assess the accuracy of stock price predictions. • Capturing Temporal Dependencies: LSTMs excel in processing time-series data by remembering
-past patterns, making them ideal for stock price prediction.
+
+• Residual Analysis – The residual component represents unpredictable variations, helping assess the accuracy of stock price predictions. • Capturing Temporal Dependencies: LSTMs excel in processing time-series data by remembering past patterns, making them ideal for stock price prediction.
 
 ## Dictionary
 Five files are included within this repository. 
